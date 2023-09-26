@@ -4,3 +4,7 @@
 *{
     user-select: none;
 }
+
+.Student_Name {
+    word-break: break-all;
+}
